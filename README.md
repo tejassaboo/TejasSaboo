@@ -23,6 +23,9 @@ I have always been passionate about entrepreneurship, so I am currently serving 
 
 I am open to collaborating on projects and creating communities and connections. If there is absolutely any way I can help you, feel free to reach out!
 
+Coursework: Algorithms and Complexity, Neural Networks, Artificial Intelligence, Data Mining, Safe and Ethical AI, Operating Systems, Computer Organization and Architecture, Computational Brain, Cybersecurity Practicum, Competitive Programming, Contemporary Issues, Undergraduate Research, Data Visualization and Quantitative Analysis, Data Structures, Intro Programming, Longhorn Startup Seminar, Nanotechnology, Discrete Math, Differential Equations, Algebraic Structures, Multivariable Calculus, Applied Statistics, Medical Statistics, Probability Theory, Linear Algebra, Scientific Computation in Numerical Analysis, Theory of Interest, Math Education
+<br>
+
 Expected Graduation: May 2022
 <br>
 Credit Hours Completed: 154
