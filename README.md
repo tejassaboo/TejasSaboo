@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Tejas Saboo and I am a student at The University of Texas at Austin double-majoring in Computer Science and Mathematics. I am an insatiably curious lifelong learner that values creative and artistic expression, disruptive and impactful innovation, integrity and humanity, humility and authenticity, environmental consciousness, decentralized decision-making, efficiency, autonomy, adventure, and challenge. I am always striving to use technology to solve problems and create value for society.
+Hi! My name is Tejas Saboo and I am a student at The University of Texas at Austin double-majoring in Computer Science and Mathematics with a Certificate in Applied Statistical Modeling. I am an insatiably curious lifelong learner that values creative and artistic expression, disruptive and impactful innovation, integrity and humanity, humility and authenticity, environmental consciousness, decentralized decision-making, efficiency, autonomy, adventure, and challenge. I am always striving to use technology to solve problems and create value for society.
 
 I am an experienced academic researcher, full-stack software engineer and architect, machine learning engineer, leader, and artist. I spent the past two summers interning at Trend Micro where I worked on customer-centric cybersecurity, cloud architecture, data science and telemetry, and software projects that delivered on company OKRs. I have contributed to machine learning and artificial intelligence, electrical engineering, and epidemiology research, and I hope to continue to advance technology and scientific knowledge throughout my life. 
 
