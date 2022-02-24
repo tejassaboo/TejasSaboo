@@ -19,7 +19,7 @@ Hi! My name is Tejas Saboo and I am a student at The University of Texas at Aust
 
 I am an experienced academic researcher, full-stack software engineer and architect, machine learning engineer, leader, and artist. I spent the past two summers interning at Trend Micro where I worked on customer-centric cybersecurity, cloud architecture, data science and telemetry, and software projects that delivered on company OKRs. I have contributed to machine learning and artificial intelligence, electrical engineering, and epidemiology research, and I hope to continue to advance technology and scientific knowledge throughout my life. 
 
-I have always been passionate about entrepreneurship, so I am currently serving as the Partnership Management Co-Lead for UT Austin's Longhorn Entrepreneurship Agency (LEA). Shoot me an email if you are an entrepreneur, lead or work at a startup, or have anything you would like to share with or teach entrepreneurially-minded students at UT! I am also involved in UT Senate of College Councils. Let me know if there are any initiatives you would like us to take on!
+I have always been passionate about entrepreneurship, so I am currently serving as the Partnership Management Lead for UT Austin's Longhorn Entrepreneurship Agency (LEA). Shoot me an email if you are an entrepreneur, lead or work at a startup, or have anything you would like to share with or teach entrepreneurially-minded students at UT! I am also involved in UT Senate of College Councils. Let me know if there are any initiatives you would like us to take on!
 
 I am open to collaborating on projects and creating communities and connections. If there is absolutely any way I can help you, feel free to reach out!
 
